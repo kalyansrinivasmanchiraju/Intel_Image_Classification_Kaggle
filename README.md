@@ -5,8 +5,8 @@ Steps:
 
 1. Import the Libraries
 2. Define the convert function 
-  2.1 Load the images
-  2.2 Convert the image into 3D Numpy array
+ 2.1 Load the images
+2.2 Convert the image into 3D Numpy array
   2.3 Standardize the data
   2.4 Add label
 3. Load Train images
